@@ -15,6 +15,7 @@ logar no site expo.dev e configura o eas.json
 eas build:configure
 
 gerar o apk – de forma online
+
 eas build -p android --profile preview
 
 cuidado aqui!!!
@@ -23,6 +24,7 @@ Isso pode levar vários minutos
 
 Depois de gerado o apk abra o link 
 Baixe o apk ou usar o qrcode para baixar direto no celular
+
 Upar ele no google drive
 criar um qrcode
 e instalar o celular
