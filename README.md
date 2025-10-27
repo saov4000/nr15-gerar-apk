@@ -3,15 +3,17 @@ Gerar APK
 1ª forma:
 Deve-se ter uma conta em https://expo.dev/
 Na pasta do projeto faça o login 
+
 npx expo login
 
 instale o EAS – expo application service
+
 npm install -g eas-cli
 
 logar no site expo.dev e configura o eas.json  
+
 eas build:configure
 
-em eas.json
 gerar o apk – de forma online
 eas build -p android --profile preview
 
