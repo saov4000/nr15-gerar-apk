@@ -10,8 +10,6 @@ instale o EAS – expo application service
 
 npm install -g eas-cli
 
-logar no site expo.dev e configura o eas.json  
-
 eas build:configure
 
 gerar o apk – de forma online
